@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v7.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v7.0 Server at localhost" name="Tomcat v7.0 Server at localhost" runtime-id="Apache Tomcat v7.0" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="45" stop-timeout="15" testEnvironment="false" timestamp="17">
+  <list key="modules" value0="Webgl::org.eclipse.jst.jee.server:Webgl::jst.web::3.0" value1="GuestBook::org.eclipse.jst.jee.server:GuestBook::jst.web::3.0" value2="GuestBook1::org.eclipse.jst.jee.server:GuestBook1::jst.web::3.0" value3="GuestBook2::org.eclipse.jst.jee.server:GuestBook2::jst.web::3.0"/>
+</server>
